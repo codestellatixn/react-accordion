@@ -11,7 +11,7 @@ A responsive FAQ accordion built with **React + Vite**, featuring smooth UX and 
 
 ## 📸 Preview
 
-![preview](./screenshot.png)  
+![preview](./public/screenshot.png)  
 *A fun little FAQ for fans of the band that stole our hearts.*
 
 ## 🔗 Live Demo
