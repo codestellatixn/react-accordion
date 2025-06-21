@@ -17,11 +17,21 @@ body {
 .header {
   display: flex;
   justify-content: center;
+  text-align: center;
   margin-top: 5rem;
   font-size: 2.5rem;
   color: #bc4749;
-  text-align: center;
+}
+
+.heading {
+  
+  
   padding: 0 1rem;
+}
+
+.sub-header {
+  font-size: small;
+  font-style: italic;
 }
 
 .accordion {

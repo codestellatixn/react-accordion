@@ -34,7 +34,12 @@ export default function App() {
 }
 
 function Header() {
-  return <h2 className="header">Bocchi the Rock! FAQ ✨</h2>;
+  return (
+    <div className="header">
+      <h2 className="heading">Kessoku Band FAQ ✨</h2>
+      <p className="sub-header">Bocchi the Rock!</p>
+    </div>
+  );
 }
 
 function Accordion({data}) {

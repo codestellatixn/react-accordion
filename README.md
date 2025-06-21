@@ -1,12 +1,19 @@
-# React + Vite
+# 🎸 Kessoku Band FAQ
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive FAQ accordion built with **React + Vite**, featuring smooth UX and fun fan-based content about the Kessoku Band from *Bocchi the Rock!*.
 
-Currently, two official plugins are available:
+## 📋 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📱 Fully responsive layout
+- ⚛️ Built using React functional components + hooks
+- 🎨 Custom CSS styling (no external frameworks)
+- 🧩 Expand/collapse accordion interaction
 
-## Expanding the ESLint configuration
+## 📸 Preview
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![preview](./screenshot.png)  
+*A fun little FAQ for fans of the band that stole our hearts.*
+
+## 🔗 Live Demo
+
+👉 [Check it out here](https://codestellatixn.github.io/react-accordion/)
